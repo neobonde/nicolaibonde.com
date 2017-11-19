@@ -1,3 +1,3 @@
 # NicolaiBonde.com
 
-Repository for my personal website [nicolaibonde.com](NicolaiBonde.com)
+Repository for my personal website [http://nicolaibonde.com/](NicolaiBonde.com)
